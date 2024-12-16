@@ -1,0 +1,4 @@
+openai==1.57.1
+python-docx==1.0.1
+pyinstaller==6.3.0
+streamlit==1.29.0

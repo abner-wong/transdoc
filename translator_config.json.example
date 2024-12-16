@@ -1,0 +1,13 @@
+{
+    "openai": {
+        "api_key": "your-api-key-here",
+        "base_url": "https://api.openai.com",
+        "model": "gpt-4"
+    },
+    "azure_openai": {
+        "api_key": "your-azure-api-key-here",
+        "endpoint": "your-azure-endpoint-here",
+        "api_version": "2024-02-01",
+        "model": "gpt-4o"
+    }
+}
